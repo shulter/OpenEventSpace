@@ -26,3 +26,8 @@ Panels can be connected in every direction, ie. to long rows or T-shaped room di
 Based on the supplied load simulations the structural integrity is sufficient for a temporary use as a horizontal platform. Panels can be stacked and laid flat to form an elevated stage. 
 
 ![](/simulations/Structural%20Panel%2084%20Anja%20B%20FEA.png)
+
+Making of (click for full video):
+
+[![Video of CAD modelling](http://share.gifyoutube.com/gHeM9kfxk1Y.gif)](https://www.youtube.com/watch?v=gHeM9kfxk1Y)
+
