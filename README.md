@@ -5,11 +5,11 @@ Matching desks and tables of various heights are offloaded to this repo: https:/
 
 ![](/scenarios/exhibition%20small.jpg)
 
-Panels are optimized for 
-1. best use of stock material, minimal operations, minimal waste
-1. weight, all components can be carried by two people
-1. modularity, connectivity, integrated storage
-1. ease of assembly and disassembly
+Panels are optimized for
+	1. best use of stock material, minimal operations, minimal waste
+	1. weight, all components can be carried by two people
+	1. modularity, connectivity, integrated storage
+	1. ease of assembly and disassembly
 
 Making of (click for video):
 
