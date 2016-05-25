@@ -29,5 +29,5 @@ Based on the supplied load simulations the structural integrity is sufficient fo
 
 Making of (click for full video):
 
-[![Video of CAD modelling](http://share.gifyoutube.com/gHeM9kfxk1Y.gif)](https://www.youtube.com/watch?v=gHeM9kfxk1Y)
+[![Video of CAD modelling](https://j.gifs.com/82lDQl.gif)](https://www.youtube.com/watch?v=gHeM9kfxk1Y)
 
