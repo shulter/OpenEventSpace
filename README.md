@@ -4,7 +4,7 @@ Modular system of easy to build structural panels for room dividers, stages and 
 Matching desks and tables of various heights are offloaded to this repo: https://github.com/etemu/OpenDeskAriane
 
 ![](/scenarios/exhibition%20small.jpg)
-
+![](scenarios/projector%20presentation.jpg)
 Panels are optimized for
 
 1. best use of stock material, minimal operations, minimal waste
